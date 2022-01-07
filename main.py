@@ -24,7 +24,7 @@ def main():
             largest = num2
         else:
             largest = num3
-        
+
         # output
         print(f"Largest Number is {largest}.")
     except ValueError:
